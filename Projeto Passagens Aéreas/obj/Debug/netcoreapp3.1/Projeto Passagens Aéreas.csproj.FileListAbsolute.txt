@@ -1,0 +1,13 @@
+C:\Users\caisb\OneDrive\Desktop\Projeto Exercícios\Projeto Passagens Aéreas\bin\Debug\netcoreapp3.1\Projeto Passagens Aéreas.exe
+C:\Users\caisb\OneDrive\Desktop\Projeto Exercícios\Projeto Passagens Aéreas\bin\Debug\netcoreapp3.1\Projeto Passagens Aéreas.deps.json
+C:\Users\caisb\OneDrive\Desktop\Projeto Exercícios\Projeto Passagens Aéreas\bin\Debug\netcoreapp3.1\Projeto Passagens Aéreas.runtimeconfig.json
+C:\Users\caisb\OneDrive\Desktop\Projeto Exercícios\Projeto Passagens Aéreas\bin\Debug\netcoreapp3.1\Projeto Passagens Aéreas.runtimeconfig.dev.json
+C:\Users\caisb\OneDrive\Desktop\Projeto Exercícios\Projeto Passagens Aéreas\bin\Debug\netcoreapp3.1\Projeto Passagens Aéreas.dll
+C:\Users\caisb\OneDrive\Desktop\Projeto Exercícios\Projeto Passagens Aéreas\bin\Debug\netcoreapp3.1\Projeto Passagens Aéreas.pdb
+C:\Users\caisb\OneDrive\Desktop\Projeto Exercícios\Projeto Passagens Aéreas\obj\Debug\netcoreapp3.1\Projeto Passagens Aéreas.csprojAssemblyReference.cache
+C:\Users\caisb\OneDrive\Desktop\Projeto Exercícios\Projeto Passagens Aéreas\obj\Debug\netcoreapp3.1\Projeto Passagens Aéreas.AssemblyInfoInputs.cache
+C:\Users\caisb\OneDrive\Desktop\Projeto Exercícios\Projeto Passagens Aéreas\obj\Debug\netcoreapp3.1\Projeto Passagens Aéreas.AssemblyInfo.cs
+C:\Users\caisb\OneDrive\Desktop\Projeto Exercícios\Projeto Passagens Aéreas\obj\Debug\netcoreapp3.1\Projeto Passagens Aéreas.csproj.CoreCompileInputs.cache
+C:\Users\caisb\OneDrive\Desktop\Projeto Exercícios\Projeto Passagens Aéreas\obj\Debug\netcoreapp3.1\Projeto Passagens Aéreas.dll
+C:\Users\caisb\OneDrive\Desktop\Projeto Exercícios\Projeto Passagens Aéreas\obj\Debug\netcoreapp3.1\Projeto Passagens Aéreas.pdb
+C:\Users\caisb\OneDrive\Desktop\Projeto Exercícios\Projeto Passagens Aéreas\obj\Debug\netcoreapp3.1\Projeto Passagens Aéreas.genruntimeconfig.cache
