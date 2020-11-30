@@ -1,0 +1,13 @@
+C:\Users\caisb\OneDrive\Desktop\Projeto Exercícios\Projeto Sistema de Produtos\bin\Debug\netcoreapp3.1\Projeto Sistema de Produtos.exe
+C:\Users\caisb\OneDrive\Desktop\Projeto Exercícios\Projeto Sistema de Produtos\bin\Debug\netcoreapp3.1\Projeto Sistema de Produtos.deps.json
+C:\Users\caisb\OneDrive\Desktop\Projeto Exercícios\Projeto Sistema de Produtos\bin\Debug\netcoreapp3.1\Projeto Sistema de Produtos.runtimeconfig.json
+C:\Users\caisb\OneDrive\Desktop\Projeto Exercícios\Projeto Sistema de Produtos\bin\Debug\netcoreapp3.1\Projeto Sistema de Produtos.runtimeconfig.dev.json
+C:\Users\caisb\OneDrive\Desktop\Projeto Exercícios\Projeto Sistema de Produtos\bin\Debug\netcoreapp3.1\Projeto Sistema de Produtos.dll
+C:\Users\caisb\OneDrive\Desktop\Projeto Exercícios\Projeto Sistema de Produtos\bin\Debug\netcoreapp3.1\Projeto Sistema de Produtos.pdb
+C:\Users\caisb\OneDrive\Desktop\Projeto Exercícios\Projeto Sistema de Produtos\obj\Debug\netcoreapp3.1\Projeto Sistema de Produtos.csprojAssemblyReference.cache
+C:\Users\caisb\OneDrive\Desktop\Projeto Exercícios\Projeto Sistema de Produtos\obj\Debug\netcoreapp3.1\Projeto Sistema de Produtos.AssemblyInfoInputs.cache
+C:\Users\caisb\OneDrive\Desktop\Projeto Exercícios\Projeto Sistema de Produtos\obj\Debug\netcoreapp3.1\Projeto Sistema de Produtos.AssemblyInfo.cs
+C:\Users\caisb\OneDrive\Desktop\Projeto Exercícios\Projeto Sistema de Produtos\obj\Debug\netcoreapp3.1\Projeto Sistema de Produtos.csproj.CoreCompileInputs.cache
+C:\Users\caisb\OneDrive\Desktop\Projeto Exercícios\Projeto Sistema de Produtos\obj\Debug\netcoreapp3.1\Projeto Sistema de Produtos.dll
+C:\Users\caisb\OneDrive\Desktop\Projeto Exercícios\Projeto Sistema de Produtos\obj\Debug\netcoreapp3.1\Projeto Sistema de Produtos.pdb
+C:\Users\caisb\OneDrive\Desktop\Projeto Exercícios\Projeto Sistema de Produtos\obj\Debug\netcoreapp3.1\Projeto Sistema de Produtos.genruntimeconfig.cache
